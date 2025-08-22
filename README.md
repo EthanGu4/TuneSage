@@ -1,6 +1,6 @@
 # TuneSage
 
-Basic music bot that generates random songs based on user specifications; used primarily to discover new tracks
+A music discovery bot that generates personalized or random song recommendations based on user-selected genres and time periods, helping users explore and discover new tracks effortlessly
 
 # SET-UP BACKEND
 
